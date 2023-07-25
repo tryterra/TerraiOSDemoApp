@@ -11,6 +11,32 @@
 		9B139CA429D5D95800A63629 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B139CA329D5D95800A63629 /* ContentView.swift */; };
 		9B139CA629D5D95900A63629 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9B139CA529D5D95900A63629 /* Assets.xcassets */; };
 		9B139CA929D5D95900A63629 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9B139CA829D5D95900A63629 /* Preview Assets.xcassets */; };
+		9B139CB329D5DA8100A63629 /* Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B139CB229D5DA8100A63629 /* Colors.swift */; };
+		9B139D2B29D5DCED00A63629 /* Poppins-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9B139D2429D5DCED00A63629 /* Poppins-Thin.ttf */; };
+		9B139D2C29D5DCED00A63629 /* Poppins-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9B139D2529D5DCED00A63629 /* Poppins-Medium.ttf */; };
+		9B139D2D29D5DCED00A63629 /* Poppins-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9B139D2629D5DCED00A63629 /* Poppins-Regular.ttf */; };
+		9B139D2E29D5DCED00A63629 /* Poppins-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9B139D2729D5DCED00A63629 /* Poppins-Light.ttf */; };
+		9B139D2F29D5DCED00A63629 /* Poppins-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9B139D2829D5DCED00A63629 /* Poppins-SemiBold.ttf */; };
+		9B139D3029D5DCED00A63629 /* Poppins-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9B139D2929D5DCED00A63629 /* Poppins-Bold.ttf */; };
+		9B139D3129D5DCED00A63629 /* Poppins-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9B139D2A29D5DCED00A63629 /* Poppins-Black.ttf */; };
+		9B139D3429D5DE8F00A63629 /* WidgetInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B139D3329D5DE8F00A63629 /* WidgetInfo.swift */; };
+		9B139D3629D5E1E700A63629 /* Secrets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B139D3529D5E1E700A63629 /* Secrets.swift */; };
+		9B139D3A29D5E28100A63629 /* WidgetHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B139D3929D5E28100A63629 /* WidgetHandler.swift */; };
+		9B139D3C29D5E43F00A63629 /* Errors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B139D3B29D5E43F00A63629 /* Errors.swift */; };
+		9B139D3E29D5E49600A63629 /* Arrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B139D3D29D5E49600A63629 /* Arrays.swift */; };
+		9B139D4029D5E70700A63629 /* RequestData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B139D3F29D5E70700A63629 /* RequestData.swift */; };
+		9B139D4E29D6047A00A63629 /* DataRequestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B139D4D29D6047A00A63629 /* DataRequestView.swift */; };
+		9B139D7D29D8BAB300A63629 /* TerraiOS in Frameworks */ = {isa = PBXBuildFile; productRef = 9B139D7C29D8BAB300A63629 /* TerraiOS */; };
+		9B139D8029D8BC9C00A63629 /* RemoveBackgroundColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B139D7F29D8BC9C00A63629 /* RemoveBackgroundColor.swift */; };
+		9B139D8229D8BD3200A63629 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B139D8129D8BD3200A63629 /* AppDelegate.swift */; };
+		9B637E9429DDC53100C9081F /* Numbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B637E9329DDC53100C9081F /* Numbers.swift */; };
+		9B637E9629DDEC0300C9081F /* StreamingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B637E9529DDEC0300C9081F /* StreamingView.swift */; };
+		9B637E9829DDF11000C9081F /* Date.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B637E9729DDF11000C9081F /* Date.swift */; };
+		9BD6428B29D8DDCB005021FC /* DataView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BD6428A29D8DDCB005021FC /* DataView.swift */; };
+		9BD6428D29D9CEE0005021FC /* RoundedCorners.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BD6428C29D9CEE0005021FC /* RoundedCorners.swift */; };
+		9BD6428F29D9D84F005021FC /* BackButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BD6428E29D9D84F005021FC /* BackButton.swift */; };
+		9BE9480E29DC1CD500F0E1D0 /* ScanDeviceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BE9480D29DC1CD500F0E1D0 /* ScanDeviceView.swift */; };
+		9BE9481329DC72C900F0E1D0 /* TerraRTiOS in Frameworks */ = {isa = PBXBuildFile; productRef = 9BE9481229DC72C900F0E1D0 /* TerraRTiOS */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +45,32 @@
 		9B139CA329D5D95800A63629 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		9B139CA529D5D95900A63629 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9B139CA829D5D95900A63629 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		9B139CB229D5DA8100A63629 /* Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Colors.swift; sourceTree = "<group>"; };
+		9B139D2429D5DCED00A63629 /* Poppins-Thin.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Thin.ttf"; sourceTree = "<group>"; };
+		9B139D2529D5DCED00A63629 /* Poppins-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Medium.ttf"; sourceTree = "<group>"; };
+		9B139D2629D5DCED00A63629 /* Poppins-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Regular.ttf"; sourceTree = "<group>"; };
+		9B139D2729D5DCED00A63629 /* Poppins-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Light.ttf"; sourceTree = "<group>"; };
+		9B139D2829D5DCED00A63629 /* Poppins-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-SemiBold.ttf"; sourceTree = "<group>"; };
+		9B139D2929D5DCED00A63629 /* Poppins-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Bold.ttf"; sourceTree = "<group>"; };
+		9B139D2A29D5DCED00A63629 /* Poppins-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Black.ttf"; sourceTree = "<group>"; };
+		9B139D3229D5DD1E00A63629 /* Terra-fic-App-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "Terra-fic-App-Info.plist"; sourceTree = SOURCE_ROOT; };
+		9B139D3329D5DE8F00A63629 /* WidgetInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WidgetInfo.swift; sourceTree = "<group>"; };
+		9B139D3529D5E1E700A63629 /* Secrets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Secrets.swift; sourceTree = "<group>"; };
+		9B139D3929D5E28100A63629 /* WidgetHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WidgetHandler.swift; sourceTree = "<group>"; };
+		9B139D3B29D5E43F00A63629 /* Errors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Errors.swift; sourceTree = "<group>"; };
+		9B139D3D29D5E49600A63629 /* Arrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Arrays.swift; sourceTree = "<group>"; };
+		9B139D3F29D5E70700A63629 /* RequestData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RequestData.swift; sourceTree = "<group>"; };
+		9B139D4D29D6047A00A63629 /* DataRequestView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataRequestView.swift; sourceTree = "<group>"; };
+		9B139D7E29D8BB1000A63629 /* Terra-fic App.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "Terra-fic App.entitlements"; sourceTree = "<group>"; };
+		9B139D7F29D8BC9C00A63629 /* RemoveBackgroundColor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveBackgroundColor.swift; sourceTree = "<group>"; };
+		9B139D8129D8BD3200A63629 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		9B637E9329DDC53100C9081F /* Numbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Numbers.swift; sourceTree = "<group>"; };
+		9B637E9529DDEC0300C9081F /* StreamingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StreamingView.swift; sourceTree = "<group>"; };
+		9B637E9729DDF11000C9081F /* Date.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Date.swift; sourceTree = "<group>"; };
+		9BD6428A29D8DDCB005021FC /* DataView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataView.swift; sourceTree = "<group>"; };
+		9BD6428C29D9CEE0005021FC /* RoundedCorners.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundedCorners.swift; sourceTree = "<group>"; };
+		9BD6428E29D9D84F005021FC /* BackButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackButton.swift; sourceTree = "<group>"; };
+		9BE9480D29DC1CD500F0E1D0 /* ScanDeviceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScanDeviceView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -26,6 +78,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9B139D7D29D8BAB300A63629 /* TerraiOS in Frameworks */,
+				9BE9481329DC72C900F0E1D0 /* TerraRTiOS in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -51,10 +105,19 @@
 		9B139CA029D5D95800A63629 /* Terra-fic App */ = {
 			isa = PBXGroup;
 			children = (
+				9BE9481029DC726A00F0E1D0 /* DeviceFlow */,
+				9BE9480F29DC725100F0E1D0 /* WidgetFlow */,
+				9B139D7E29D8BB1000A63629 /* Terra-fic App.entitlements */,
+				9B139D3229D5DD1E00A63629 /* Terra-fic-App-Info.plist */,
+				9B139CB429D5DC9B00A63629 /* Fonts */,
+				9B139CB129D5DA6F00A63629 /* Extensions+Helpers */,
 				9B139CA129D5D95800A63629 /* Terra_fic_AppApp.swift */,
 				9B139CA329D5D95800A63629 /* ContentView.swift */,
 				9B139CA529D5D95900A63629 /* Assets.xcassets */,
 				9B139CA729D5D95900A63629 /* Preview Content */,
+				9B139D3529D5E1E700A63629 /* Secrets.swift */,
+				9B139D3B29D5E43F00A63629 /* Errors.swift */,
+				9B139D8129D8BD3200A63629 /* AppDelegate.swift */,
 			);
 			path = "Terra-fic App";
 			sourceTree = "<group>";
@@ -65,6 +128,55 @@
 				9B139CA829D5D95900A63629 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		9B139CB129D5DA6F00A63629 /* Extensions+Helpers */ = {
+			isa = PBXGroup;
+			children = (
+				9B139CB229D5DA8100A63629 /* Colors.swift */,
+				9B139D3D29D5E49600A63629 /* Arrays.swift */,
+				9B139D7F29D8BC9C00A63629 /* RemoveBackgroundColor.swift */,
+				9BD6428C29D9CEE0005021FC /* RoundedCorners.swift */,
+				9BD6428E29D9D84F005021FC /* BackButton.swift */,
+				9B637E9329DDC53100C9081F /* Numbers.swift */,
+				9B637E9729DDF11000C9081F /* Date.swift */,
+			);
+			path = "Extensions+Helpers";
+			sourceTree = "<group>";
+		};
+		9B139CB429D5DC9B00A63629 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				9B139D2A29D5DCED00A63629 /* Poppins-Black.ttf */,
+				9B139D2929D5DCED00A63629 /* Poppins-Bold.ttf */,
+				9B139D2729D5DCED00A63629 /* Poppins-Light.ttf */,
+				9B139D2529D5DCED00A63629 /* Poppins-Medium.ttf */,
+				9B139D2629D5DCED00A63629 /* Poppins-Regular.ttf */,
+				9B139D2829D5DCED00A63629 /* Poppins-SemiBold.ttf */,
+				9B139D2429D5DCED00A63629 /* Poppins-Thin.ttf */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		9BE9480F29DC725100F0E1D0 /* WidgetFlow */ = {
+			isa = PBXGroup;
+			children = (
+				9B139D3329D5DE8F00A63629 /* WidgetInfo.swift */,
+				9B139D3929D5E28100A63629 /* WidgetHandler.swift */,
+				9B139D3F29D5E70700A63629 /* RequestData.swift */,
+				9B139D4D29D6047A00A63629 /* DataRequestView.swift */,
+				9BD6428A29D8DDCB005021FC /* DataView.swift */,
+			);
+			path = WidgetFlow;
+			sourceTree = "<group>";
+		};
+		9BE9481029DC726A00F0E1D0 /* DeviceFlow */ = {
+			isa = PBXGroup;
+			children = (
+				9BE9480D29DC1CD500F0E1D0 /* ScanDeviceView.swift */,
+				9B637E9529DDEC0300C9081F /* StreamingView.swift */,
+			);
+			path = DeviceFlow;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -83,6 +195,10 @@
 			dependencies = (
 			);
 			name = "Terra-fic App";
+			packageProductDependencies = (
+				9B139D7C29D8BAB300A63629 /* TerraiOS */,
+				9BE9481229DC72C900F0E1D0 /* TerraRTiOS */,
+			);
 			productName = "Terra-fic App";
 			productReference = 9B139C9E29D5D95800A63629 /* Terra-fic App.app */;
 			productType = "com.apple.product-type.application";
@@ -111,6 +227,10 @@
 				Base,
 			);
 			mainGroup = 9B139C9529D5D95800A63629;
+			packageReferences = (
+				9B139D7B29D8BAB300A63629 /* XCRemoteSwiftPackageReference "TerraiOS" */,
+				9BE9481129DC72C900F0E1D0 /* XCRemoteSwiftPackageReference "TerraRTiOS" */,
+			);
 			productRefGroup = 9B139C9F29D5D95800A63629 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -125,8 +245,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9B139D2B29D5DCED00A63629 /* Poppins-Thin.ttf in Resources */,
+				9B139D2F29D5DCED00A63629 /* Poppins-SemiBold.ttf in Resources */,
+				9B139D2E29D5DCED00A63629 /* Poppins-Light.ttf in Resources */,
+				9B139D3029D5DCED00A63629 /* Poppins-Bold.ttf in Resources */,
+				9B139D2C29D5DCED00A63629 /* Poppins-Medium.ttf in Resources */,
 				9B139CA929D5D95900A63629 /* Preview Assets.xcassets in Resources */,
+				9B139D3129D5DCED00A63629 /* Poppins-Black.ttf in Resources */,
 				9B139CA629D5D95900A63629 /* Assets.xcassets in Resources */,
+				9B139D2D29D5DCED00A63629 /* Poppins-Regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,8 +264,25 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9B139D3A29D5E28100A63629 /* WidgetHandler.swift in Sources */,
+				9B139D4029D5E70700A63629 /* RequestData.swift in Sources */,
+				9BE9480E29DC1CD500F0E1D0 /* ScanDeviceView.swift in Sources */,
+				9B139D4E29D6047A00A63629 /* DataRequestView.swift in Sources */,
 				9B139CA429D5D95800A63629 /* ContentView.swift in Sources */,
+				9B139D8229D8BD3200A63629 /* AppDelegate.swift in Sources */,
+				9B139D3629D5E1E700A63629 /* Secrets.swift in Sources */,
+				9B637E9629DDEC0300C9081F /* StreamingView.swift in Sources */,
+				9B139D3429D5DE8F00A63629 /* WidgetInfo.swift in Sources */,
+				9BD6428F29D9D84F005021FC /* BackButton.swift in Sources */,
+				9B139CB329D5DA8100A63629 /* Colors.swift in Sources */,
+				9B637E9429DDC53100C9081F /* Numbers.swift in Sources */,
 				9B139CA229D5D95800A63629 /* Terra_fic_AppApp.swift in Sources */,
+				9BD6428D29D9CEE0005021FC /* RoundedCorners.swift in Sources */,
+				9B139D3C29D5E43F00A63629 /* Errors.swift in Sources */,
+				9BD6428B29D8DDCB005021FC /* DataView.swift in Sources */,
+				9B637E9829DDF11000C9081F /* Date.swift in Sources */,
+				9B139D3E29D5E49600A63629 /* Arrays.swift in Sources */,
+				9B139D8029D8BC9C00A63629 /* RemoveBackgroundColor.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -195,7 +339,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -249,7 +393,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
@@ -264,17 +408,24 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "Terra-fic App/Terra-fic App.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Terra-fic App/Preview Content\"";
 				DEVELOPMENT_TEAM = 8HP4B6QYR7;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Terra-fic-App-Info.plist";
+				INFOPLIST_KEY_NSBluetoothAlwaysUsageDescription = "Use Bluetooth to connect to BLE devices for HR Streaming";
+				INFOPLIST_KEY_NSHealthClinicalHealthRecordsShareUsageDescription = "This Terra-fic app wants to help you analyse your health";
+				INFOPLIST_KEY_NSHealthShareUsageDescription = "This Terra-fic app wants to help you analyse your health";
+				INFOPLIST_KEY_NSHealthUpdateUsageDescription = "This Terra-fic app wants to help you analyse your health";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -282,9 +433,12 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "co.tryterra.terra.Terra-fic-App";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -293,17 +447,24 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "Terra-fic App/Terra-fic App.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Terra-fic App/Preview Content\"";
 				DEVELOPMENT_TEAM = 8HP4B6QYR7;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Terra-fic-App-Info.plist";
+				INFOPLIST_KEY_NSBluetoothAlwaysUsageDescription = "Use Bluetooth to connect to BLE devices for HR Streaming";
+				INFOPLIST_KEY_NSHealthClinicalHealthRecordsShareUsageDescription = "This Terra-fic app wants to help you analyse your health";
+				INFOPLIST_KEY_NSHealthShareUsageDescription = "This Terra-fic app wants to help you analyse your health";
+				INFOPLIST_KEY_NSHealthUpdateUsageDescription = "This Terra-fic app wants to help you analyse your health";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -311,9 +472,12 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "co.tryterra.terra.Terra-fic-App";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
@@ -339,6 +503,38 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		9B139D7B29D8BAB300A63629 /* XCRemoteSwiftPackageReference "TerraiOS" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/tryterra/TerraiOS";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 1.0.0;
+			};
+		};
+		9BE9481129DC72C900F0E1D0 /* XCRemoteSwiftPackageReference "TerraRTiOS" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/tryterra/TerraRTiOS";
+			requirement = {
+				branch = master;
+				kind = branch;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		9B139D7C29D8BAB300A63629 /* TerraiOS */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 9B139D7B29D8BAB300A63629 /* XCRemoteSwiftPackageReference "TerraiOS" */;
+			productName = TerraiOS;
+		};
+		9BE9481229DC72C900F0E1D0 /* TerraRTiOS */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 9BE9481129DC72C900F0E1D0 /* XCRemoteSwiftPackageReference "TerraRTiOS" */;
+			productName = TerraRTiOS;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 9B139C9629D5D95800A63629 /* Project object */;
 }
